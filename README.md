@@ -2,7 +2,9 @@
 
 A diagram that provides an overview of the data repository on Teams can be found in [this google slide](https://docs.google.com/presentation/d/1CsW2adn97tSmq5DyrZnu1ePAUd11GN72_CcipZ8SqeM/edit#slide=id.p). A more detailed description can be found in [this google spreadsheet](https://docs.google.com/spreadsheets/d/1PwtbtwETX94yi6laZgHlAJY_YeR8rVdDJBKiJrUvJxI/edit#gid=276289149).
 
-Both dental X-rays and annotations are stored at “**Dental Disease Detection Files/Documents/General/NEW DATASETS AND PROCESSING SCRIPTS/1. Disease Object Detection**” on Teams, referred as “**./**” below. The “**./**” folder consists of four subfolders:
+This document is created to record and explain the change of the data repository for the dental diseas detection project. The data repository contains dental X-rays and their annotations, along with some processing codes and ipynb files. The current version of this document will only cover the structure of the folder where the collected dental X-rays and annotations are stored in.  
+
+Both dental X-rays and their annotations are stored at “**Dental Disease Detection Files/Documents/General/NEW DATASETS AND PROCESSING SCRIPTS/1. Disease Object Detection**” on Teams, referred as “**./**” below. The “**./**” folder consists of four subfolders:
 - **1-RAW-DATA**
   - Contains all the dental X-rays.
 - **2-COMBINED DATASETS**
