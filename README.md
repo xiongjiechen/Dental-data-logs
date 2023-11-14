@@ -58,3 +58,8 @@ This subfolder includes combinations of different datasets contained in "**./1-R
   - Easy annotations for the dataset **./2-COMBINED-DATASETS/1 Public ZOON.zip**, annotators need to specify the location and type of dental diseases, including calculus, bone loss, and caries.
 - **dental-disease-labelling-advanced-classifications.csv**
   - Advanced annotations for the dataset **./2-COMBINED-DATASETS/1 Public ZOON.zip**, annotators are required to specify the stages of calculus, bone loss, and caries.
+
+# Todolist:
+- Upload USP data to Teams.
+- Remove redundant data if necessary.
+- Include **4-PROCESSED-TO-USE-DATASETS** into this document and the diagram if necessary.
