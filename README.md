@@ -8,7 +8,7 @@ Both dental X-rays and their annotations are stored at “**Dental Disease Detec
 - **1-RAW-DATA**
   - Contains all the dental X-rays.
 - **2-COMBINED DATASETS**
-  - Contains filtered dental X-rays, with overexposed and non-radiograph images removed. Some files in this subfoler also contains annotations.
+  - Contains filtered dental X-rays, with overexposed and non-radiograph images removed. Some files in this subfolder also contains annotations.
 - **3-LABELS**
   - Contains annotations collected from different sources, including dental experts, and Zoonivers public users.
 - **4-PROCESSED-TO-USE-DATASETS**
