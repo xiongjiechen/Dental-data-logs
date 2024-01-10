@@ -1,6 +1,6 @@
 # Data logs for dental disease detection
 
-A diagram that provides an overview of the data repository on Teams can be found in [this google slide](https://docs.google.com/presentation/d/1CsW2adn97tSmq5DyrZnu1ePAUd11GN72_CcipZ8SqeM/edit#slide=id.p). A more detailed description can be found in [this google spreadsheet](https://docs.google.com/spreadsheets/d/1PwtbtwETX94yi6laZgHlAJY_YeR8rVdDJBKiJrUvJxI/edit#gid=276289149).
+A diagram that provides an overview of the data repository on Teams can be found in [this google slide](https://docs.google.com/presentation/d/1CsW2adn97tSmq5DyrZnu1ePAUd11GN72_CcipZ8SqeM/edit#slide=id.p). A more detailed description can be found in [this google spreadsheet]([https://docs.google.com/spreadsheets/d/1PwtbtwETX94yi6laZgHlAJY_YeR8rVdDJBKiJrUvJxI/edit#gid=276289149](https://docs.google.com/spreadsheets/d/13ffydSqYmcbXFMbpCg4VaaYvdrQI9EgjUI8YaQEzLxE/edit#gid=0)).
 
 This document is created to record and explain the change of the data repository for the dental diseas detection project. The data repository contains dental X-rays and their annotations, along with some processing codes and ipynb files. The current version of this document will only cover the structure of the folder where the collected dental X-rays and annotations are stored in.  
 
