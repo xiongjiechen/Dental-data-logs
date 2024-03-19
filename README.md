@@ -58,7 +58,7 @@ A copy of **Kings_original_to_be_reviewed_by_Owen.zip** can be found in the fold
 
 ### X-rays collected from Sutton
 This dataset contains 3158 DICOM files and is compressed into the following zip files and uploaded to the "**./1-RAW-DATA**" folder:
-- **Sutton data**
+- **Sutton data (Folder)**
   - **Sutton_Original_DCM_Folder**: the original file received from Sutton, contains 3158 DICOM images and 1 .DS_Store file.
   - **Sutton_Original_DCM_Folder_DS_Store_Removed**: contains the same 3158 DICOM images as **Sutton_Original_DCM_Folder** but deletes the .DS_Store file.
   - **PNG_200_each_to_be_reviewed_by_Owen.zip**: Extract pixel data from the DICOM images in **Sutton_Original_DCM_Folder_DS_Store_Removed** and convert them to 16-bits png files, group into folders, each folder has 200 images. These images were sent to Owen for review.
@@ -66,7 +66,7 @@ This dataset contains 3158 DICOM files and is compressed into the following zip 
 
 ### X-rays collected from Belmont Dental Care
 This dataset contains 5929 png files collected from Belmont Dental Care and is compressed into the following zip files and uploaded to the "**./1-RAW-DATA**" folder:
-- **Belmont data**
+- **Belmont data (Folder)**
   - **Belmont_original_data.zip**: the original file received from Belmont Dental Care, contains 5929 png files.
   - **Belmont_data_200_each_to_be_reviewed_by_Owen.zip**: group the images in **Belmont_original_data.zip** into folders, each folder has 200 images. These images were sent to Owen for review.
 
